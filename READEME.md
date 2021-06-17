@@ -1,1 +1,0 @@
-* SpringBoot集成SPA(Hibernate)的一个小Demo，用于自己研究
